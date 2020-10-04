@@ -1,6 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+# from selenium.webdriver.Chrome.options import Options
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.expected_conditions import presence_of_element_located
@@ -8,9 +10,12 @@ import pickle
 
 
 
-with webdriver.Chrome() as driver:
+options = Options()
+options.headless = True
+with webdriver.Chrome(options=options) as driver:
     
     page_num=0
+    # lim 250
     page_lim=250
     links = []
 

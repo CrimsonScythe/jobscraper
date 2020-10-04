@@ -1,0 +1,195 @@
+React	99	97	98
+ASP.NET MVC		95	95
+Angular	91	96	93
+Ruby on Rails	88	99	93
+AngularJS	90	97	93
+Vue.js	100	86	93
+Django	89	97	93
+Laravel	90	93	91
+ASP.NET	80	100	90
+Spring	86	94	90
+Express	88	87	87
+Flask	89	83	86
+Meteor	87	80	83
+Symfony	81	86	83
+CodeIgniter	79	86	82
+JSF		81	81
+Ember.js	81	78	79
+.NET Core	77	80	78
+Google Web Toolkit		77	77
+CakePHP	72	80	76
+Polymer	80	70	75
+Play	75	76	75
+Flex		75	75
+Sails.js	81	68	74
+Zend	68	77	72
+JHipster	79	65	72
+Tornado	80	63	71
+Yii	67	75	71
+Phoenix	78	63	70
+Sinatra	74	66	70
+Grails	61	80	70
+Svelte	86	54	70
+Koa	84	54	69
+Aurelia	75	63	69
+Blade	68		68
+Vert.x	75	59	67
+Slim	74	61	67
+Phalcon	74	59	66
+Vapor	80	50	65
+LoopBack	76	55	65
+hapi	76	55	65
+AIOHTTP	74	54	64
+Feathers	76	52	64
+OpenUI5	60	68	64
+Dropwizard	71	58	64
+Oat++	63		63
+Elm	69	58	63
+Bottle	70	56	63
+Wicket		63	63
+Dojo	56	71	63
+FastAPI	80	47	63
+beego	82	43	62
+Pyramid	64	60	62
+Nancy	70	54	62
+Vaadin	57	66	61
+web.py	68	53	60
+Adonis	72	48	60
+Fastify	78	40	59
+Riot.js	77	41	59
+Struts	53	64	58
+Mithril	75	42	58
+web2py	58	59	58
+Lucky	58		58
+Revel	75	41	58
+Ktor	71	45	58
+Kohana	57	60	58
+Sanic	77	39	58
+Durandal	58	56	57
+Yesod	60	55	57
+Perfect	76	37	56
+Compojure	65	47	56
+CherryPy	55	56	55
+Mojolicious	60	50	55
+Ring	63	47	55
+Falcon	71	40	55
+Rocket	75	35	55
+Actix web	73	37	55
+SilverStripe Sapphire	49	60	54
+PHP Fat-Free Framework	61	46	53
+Tapestry		53	53
+Martini	74	32	53
+Iris	79	27	53
+Marko	73	32	52
+FuelPHP	56	48	52
+Ninja	58	46	52
+Kitura	71	34	52
+Scalatra	61	44	52
+Restlet	48	55	51
+Sailor	51		51
+SproutCore	60	43	51
+Hanami	68	33	50
+(fab)	50		50
+Inferno	77	23	50
+Lift	45	54	49
+Lithium	54	44	49
+Buffalo	69	30	49
+Cappuccino	60	39	49
+ZK	42	54	48
+Flight	70	24	47
+servant	56	39	47
+Wt	54	41	47
+Grok		46	46
+Dancer2	46		46
+Ratpack	58	34	46
+Zope	39	51	45
+CompoundJS	57	34	45
+Catalyst	40	49	44
+Kemal	62	27	44
+TurboGears	50	36	43
+Gin	87	0	43
+Flatiron	55	29	42
+Noir	50	34	42
+Nitrogen	51	34	42
+Amber	59	23	41
+Mojarra	36	47	41
+Quart	50	32	41
+seaside		40	40
+Stripes	35	44	39
+Masonite	56	22	39
+Camping	49	27	38
+Cuba	55	20	37
+Happstack		36	36
+Zotonic	49	24	36
+Hyperstack	45	28	36
+kotlinx.html	53	18	35
+Merb	37	33	35
+Cairngorm		35	35
+Rapidoid	56	14	35
+PureMVC	34	34	34
+Horde	40	29	34
+Ramaze	38	30	34
+Cocoon		34	34
+Mate		33	33
+Spider-Gazelle	33		33
+Orbit	32		32
+Tipfy	34	30	32
+Mason	26	38	32
+Swiz	39	24	31
+Prado	36	25	30
+Aura	29		29
+Picard	39	20	29
+Erlang Web		28	28
+JavaScriptMVC	14	40	27
+Vanilla	53	0	26
+Solar	21	29	25
+Rum	31	19	25
+UKI	51	0	25
+Qcodo	25	24	24
+Cutelyst	48	0	24
+QCubed	26	22	24
+Apache Click		23	23
+Xitrum	45	0	22
+Swiftlet	45	0	22
+Hexagon	42	0	21
+Snap	42	0	21
+RestfulX	42	0	21
+Conjure	41	0	20
+PHP For Applications	22	18	20
+Moustache	40	0	20
+Eliom	39	0	19
+KumbiaPHP	38	0	19
+MFlow	31	8	19
+echo	27	10	18
+Circumflex	36	0	18
+node-router	36	0	18
+Sin	18		18
+Portofino	34	0	17
+ErlyWeb	35	0	17
+Grain	35	0	17
+Nerve	33	0	16
+Lemmachine	33	0	16
+Wee	33	0	16
+Hemlock	33	0	16
+Konstrukt	31	0	15
+nodemachine	28	0	14
+simplex	14		14
+Nitro	29	0	14
+Halcyon	27	0	13
+mangoo I/O	26	0	13
+Spincast	24	0	12
+Agavi		12	12
+Vroom	24	0	12
+Atomik	25	0	12
+Akelos	24	0	12
+Jifty	22	0	11
+Squatting	22	0	11
+Mack	23	0	11
+Webjure	21	0	10
+Waves	21	0	10
+Salvia	18	0	9
+LiquidLava	15	0	7
+CGI::Prototype	6		6
+HydraMVC	6	0	3
+miku		0	0
+Roma
